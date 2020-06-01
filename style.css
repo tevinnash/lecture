@@ -1,0 +1,51 @@
+     h1 {
+	   color:blue;
+       text-align:center;}
+	button {
+	     background-color: lightblue;
+	     color:red;
+		 border: 0.5px dotted red;
+		 }
+    TABLE { 
+	border: 2px solid black;
+	border-collapse: collapse;
+	}
+	tr, td, th{
+	border: 1px solid black;
+	padding: 5px;
+	width: 60%;
+	text-align: center;
+	}
+	th {
+	background-color:lightgrey;
+	
+	}
+	div {
+	 border: 3px dotted red;
+	 background-color: pink;
+	      width: 400px;
+		  height: 100px;
+		  margin: 30px;
+		  padding: 20px;
+		  font-family: Freestyle Script, arial;
+		  font-size: 50px;
+		  font-weight: bold;
+		  color: red;
+		  }
+		  #top{
+		  	  color: blue;
+		  }
+		  #middle{
+		  color: green;
+		  
+		  }
+		  #bottom { 
+		  	  color: black;
+		  }
+		  .name {
+		  	  color: black;
+		  }
+		  .hi {
+		  color:brown;
+		  
+		  }
